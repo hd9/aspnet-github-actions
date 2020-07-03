@@ -15,7 +15,7 @@ on:
 
 env:
   # TODO: Change variable to your image's name.
-  IMAGE_NAME: webapp
+  IMAGE_NAME: aspnet-github-actions
 
 jobs:
   # Run tests.
